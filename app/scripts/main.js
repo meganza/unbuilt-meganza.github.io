@@ -1,6 +1,7 @@
 console.log('main.js');
 
 $(document).ready(function(){
+  $('#flowSlide').hide();
 
   $('.social').on('mouseover', function(){
     $('.social').not($(this)).addClass('hover');
@@ -53,6 +54,11 @@ $(document).ready(function(){
   $('#showDLSU').click(function(){
     $('#dlsuSlide').slideToggle('10000');
     $('#dlsuggArrow', this).toggleClass('glyphicon-chevron-up glyphicon-chevron-down');
+  });
+
+  $('#showFlow').click(function(){
+    $('#flowSlide').slideToggle('10000');
+    $('#flowArrow', this).toggleClass('glyphicon-chevron-up glyphicon-chevron-down');
   });
 
   $('#showTG').click(function(){
