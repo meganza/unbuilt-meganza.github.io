@@ -1,7 +1,7 @@
 console.log('main.js');
 
 $(document).ready(function(){
-  $('#flowSlide').hide();
+  // $('#flowSlide').hide();
 
   $('.social').on('mouseover', function(){
     $('.social').not($(this)).addClass('hover');
