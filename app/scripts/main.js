@@ -41,6 +41,11 @@ $(document).ready(function(){
     }, 2000);
   });
 
+  $('#showHowling').click(function(){
+    $('#howlingSlide').slideToggle('10000');
+    $('#howlingArrow', this).toggleClass('glyphicon-chevron-up glyphicon-chevron-down');
+  });
+
   $('#showBerkano').click(function(){
     $('#berkanoSlide').slideToggle('10000');
     $('#berkanoArrow', this).toggleClass('glyphicon-chevron-up glyphicon-chevron-down');
