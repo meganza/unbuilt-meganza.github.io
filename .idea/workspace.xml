@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="162f91cb-1ace-4e7a-9bba-d718306c5861" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/.tmp/styles/main.css" afterPath="$PROJECT_DIR$/.tmp/styles/main.css" />
-      <change beforePath="$PROJECT_DIR$/app/images/HowlingDesktop.png" afterPath="$PROJECT_DIR$/app/images/HowlingDesktop.png" />
-      <change beforePath="$PROJECT_DIR$/app/images/HowlingMobile.png" afterPath="$PROJECT_DIR$/app/images/HowlingMobile.png" />
       <change beforePath="$PROJECT_DIR$/app/index.html" afterPath="$PROJECT_DIR$/app/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -23,8 +20,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="172">
-              <caret line="202" column="92" lean-forward="false" selection-start-line="202" selection-start-column="92" selection-end-line="202" selection-end-column="92" />
+            <state relative-caret-position="319">
+              <caret line="207" column="22" lean-forward="true" selection-start-line="207" selection-start-column="22" selection-end-line="207" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -124,23 +121,6 @@
               <item name="unbuilt-meganza.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="unbuilt-meganza.github.io" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="unbuilt-meganza.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="unbuilt-meganza.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="unbuilt-meganza.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="unbuilt-meganza.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="unbuilt-meganza.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="unbuilt-meganza.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="scripts" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -200,12 +180,12 @@
       <workItem from="1523526200440" duration="804000" />
       <workItem from="1523553996079" duration="200000" />
       <workItem from="1523557733369" duration="1853000" />
-      <workItem from="1524248373326" duration="184000" />
+      <workItem from="1524248373326" duration="267000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8881000" />
+    <option name="totallyTimeSpent" value="8964000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="19" y="23" width="1314" height="937" extended-state="0" />
@@ -613,8 +593,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="202" column="92" lean-forward="false" selection-start-line="202" selection-start-column="92" selection-end-line="202" selection-end-column="92" />
+        <state relative-caret-position="319">
+          <caret line="207" column="22" lean-forward="true" selection-start-line="207" selection-start-column="22" selection-end-line="207" selection-end-column="22" />
           <folding />
         </state>
       </provider>
