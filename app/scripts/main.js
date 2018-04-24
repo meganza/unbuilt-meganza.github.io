@@ -40,7 +40,7 @@ $(document).ready(function () {
         }, 2000);
     });
 
-    let howlingItems = [
+    var howlingItems = [
         {
             src: 'images/HowlingDesktop.png',
             w: 1440,
@@ -53,7 +53,7 @@ $(document).ready(function () {
         }
     ];
 
-    let berkanoItems = [
+    var berkanoItems = [
         {
             src: 'images/berkano1.jpg',
             w: 1280,
@@ -76,7 +76,7 @@ $(document).ready(function () {
         }
     ];
 
-    let typoItems = [
+    var typoItems = [
         {
             src: 'images/typo1.jpg',
             w: 800,
@@ -99,7 +99,7 @@ $(document).ready(function () {
         }
     ];
 
-    let dlsuItems = [
+    var dlsuItems = [
         {
             src: 'images/dlsugg1.png',
             w: 1366,
@@ -122,7 +122,7 @@ $(document).ready(function () {
         }
     ];
 
-    let flowItems = [
+    var flowItems = [
         {
             src: 'images/flowcode.png',
             w: 2382,
@@ -130,7 +130,7 @@ $(document).ready(function () {
         }
     ];
 
-    let tgItems = [
+    var tgItems = [
         {
             src: 'images/tg1.png',
             w: 636,
@@ -158,7 +158,7 @@ $(document).ready(function () {
         }
     ];
 
-    let infoItems = [
+    var infoItems = [
         {
             src: 'images/info1.png',
             w: 1024,
@@ -181,7 +181,7 @@ $(document).ready(function () {
         }
     ];
 
-    let illusItems = [
+    var illusItems = [
         {
             src: 'images/illu2.png',
             w: 365,

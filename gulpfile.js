@@ -181,3 +181,13 @@ gulp.task('default', () => {
     runSequence(['clean', 'wiredep'], 'build', resolve);
   });
 });
+
+// var gutil = require('gulp-util');
+//
+// gulp.task('concat', function() {
+//     return gulp.src('app/**/*.js')
+//     // .pipe(concat('script.js'))
+//         .pipe(uglify())
+//         .on('error', function (err) { gutil.log(gutil.colors.red('[Error]'), err.toString()); })
+//         .pipe(gulp.dest('./dist/'))
+// });
