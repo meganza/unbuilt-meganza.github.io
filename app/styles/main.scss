@@ -276,6 +276,12 @@ img {
   width: 200px;
 }
 
+.dl-horizontal {
+  * {
+    line-height: 150%;
+  }
+}
+
 .work-img {
   height: 150px;
   width: 150px;
